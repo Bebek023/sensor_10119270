@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">sensor_10119270</string>
+    <string name="profile">Profile</string>
+    <string name="note">Maps</string>
+    <string name="info">Info</string>
+    <string name="add">+</string>
+    <string name="save">SAVE</string>
+    <string name="judul">Judul</string>
+    <string name="catatan">Catatan</string>
+    <string name="delete">DELETE</string>
+    <string name="info1">Aplikasi yang dibangun untuk memenuhi tugas dari mata kuliah Aplikasi Komputasi Bergerak</string>
+    <string name="info2">Aplikasi ini memiliki fungsi dasar untuk melihat lokasi di maps. \n Aplikasi dengan tiga buah menu, yaitu menu profile pembuat, menu untuk melihat maps, dan menu yang menampilkan informasi aplikasi </string>
+    <string name="Nim">10119270</string>
+    <string name="Nama">Albanna Rahmadani Sulityo</string>
+    <string name="Kelas">IF-7</string>
+    <string name="Email">alba.sulistyo@gmail.com</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_api_key">AIzaSyCXFo8JfYAONju1I8t7GlkgIBayqb1JVSY</string>
+</resources>
