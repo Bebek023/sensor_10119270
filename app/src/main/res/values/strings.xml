@@ -15,5 +15,5 @@
     <string name="Kelas">IF-7</string>
     <string name="Email">alba.sulistyo@gmail.com</string>
     <string name="title_activity_maps">MapsActivity</string>
-    <string name="maps_api_key">AIzaSyCXFo8JfYAONju1I8t7GlkgIBayqb1JVSY</string>
+    <string name="maps_api_key"></string>
 </resources>
